@@ -1,5 +1,6 @@
+"""
 
-# Microservices Project
+# Microservices Bank Application
 
 This repository contains a microservices-based project, demonstrating key concepts of designing and developing distributed systems using Spring Boot. 
 This project demonstrates a banking application implemented using a microservices architecture. It provides core functionalities such as customer and account management, supported by additional features like service discovery, centralized configuration, and an API gateway for seamless interaction.
