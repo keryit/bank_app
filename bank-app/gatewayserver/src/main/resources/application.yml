@@ -28,3 +28,10 @@ info:
     name: "gatewayserver"
     description: "Bank Gateway Server Service"
     version: "1.0.0"
+
+logging:
+  level:
+    com:
+      eazybank:
+        gatewayserver: DEBUG
+

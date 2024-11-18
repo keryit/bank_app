@@ -58,7 +58,7 @@
 				<version>${jib.version}</version>
 				<configuration>
 					<to>
-						<image>krissmva/${artifactId}:v2</image>
+						<image>krissmva/${artifactId}:v3</image>
 					</to>
 				</configuration>
 			</plugin>
