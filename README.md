@@ -1,4 +1,5 @@
-"""
+![GitHub views](https://komarev.com/ghpvc/?username=keryit&repo=microservices_bank_app&color=blue)
+
 
 # Microservices Bank Application
 
